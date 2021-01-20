@@ -1,0 +1,101 @@
+.hr1 {
+  position: absolute;
+  width: 210px;
+  top: 17px;
+  left: 190px;
+  border: 1px solid black;
+}
+
+.hr2 {
+  position: absolute;
+  width: 230px;
+  top: 217px;
+  left: 170px;
+  border: 1px solid black;
+}
+
+.hr3 {
+  position: absolute;
+  width: 90px;
+  top: 462px;
+  left: 310px;
+  border: 1px solid black;
+}
+
+.hr4 {
+  position: absolute;
+  width: 309px;
+  top: 27px;
+  left: 125px;
+  border: 1px solid black;
+}
+
+.hr5 {
+  position: absolute;
+  width: 249px;
+  top: 59px;
+  left: 185px;
+  border: 1px solid black;
+}
+
+.hr6 {
+  position: absolute;
+  width: 89px;
+  top: 189px;
+  left: 345px;
+  border: 1px solid black;
+}
+
+.hr7 {
+  position: absolute;
+  width: 99px;
+  top: 350px;
+  left: 335px;
+  border: 1px solid black;
+}
+
+.hr500 {
+  position: absolute;
+  width: 597px;
+  top: 190px;
+  border: 3px solid white;
+  z-index: 10;
+}
+
+.hr501 {
+  position: absolute;
+  width: 45px;
+  top: 212px;
+  left: 586px;
+  transform: rotate(65deg);
+  border: 3px solid white;
+  z-index: 10;
+}
+
+.hr502 {
+  position: absolute;
+  width: 180px;
+  top: 235px;
+  left: 620px;
+  border: 3px solid white;
+  z-index: 10;
+}
+
+.hr503 {
+  position: absolute;
+  width: 45px;
+  top: 212px;
+  left: 790px;
+  transform: rotate(115deg);
+  border: 3px solid white;
+  z-index: 10;
+}
+
+.hr504 {
+  position: absolute;
+  width: 70px;
+  top: 190px;
+  left: 824px;
+  border: 3px solid white;
+  z-index: 10;
+}

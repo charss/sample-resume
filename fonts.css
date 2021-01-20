@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+
+
+.mont_400 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.mont_500 {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.mont_600 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.mont_700 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.year_font {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+}

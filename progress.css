@@ -1,0 +1,221 @@
+.progress_bars {
+  position: absolute;
+  top: 85px;
+  left: 230px;
+}
+
+#progressbar1 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-bottom: 17px;
+}
+
+#progressbar1>div {
+  background-color: orange;
+  width: 89%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar2 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-bottom: 16px;
+}
+
+#progressbar2>div {
+  background-color: orange;
+  width: 95%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar3 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-bottom: 17px;
+}
+
+#progressbar3>div {
+  background-color: orange;
+  width: 97%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar4 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 50px;
+}
+
+#progressbar4>div {
+  background-color: orange;
+  width: 84%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar5 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 16px;
+}
+
+#progressbar5>div {
+  background-color: orange;
+  width: 85%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar6 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 18px;
+}
+
+#progressbar6>div {
+  background-color: orange;
+  width: 78%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar7 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 15px;
+}
+
+#progressbar7>div {
+  background-color: orange;
+  width: 88%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar8 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 51px;
+}
+
+#progressbar8>div {
+  background-color: orange;
+  width: 78%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar9 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 15px;
+}
+
+#progressbar9>div {
+  background-color: orange;
+  width: 75%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar10 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 15px;
+}
+
+#progressbar10>div {
+  background-color: orange;
+  width: 70%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar11 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 73px;
+}
+
+#progressbar11>div {
+  background-color: orange;
+  width: 95%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
+
+#progressbar12 {
+  position: relative;
+  background-color: black;
+  border-radius: 5px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width: 200px;
+  margin-top: 18px;
+}
+
+#progressbar12>div {
+  background-color: orange;
+  width: 99%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 3px;
+}
